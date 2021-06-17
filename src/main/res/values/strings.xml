@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Encrypto</string>
+    <string name="create_account">Create Account…</string>
+    <string name="sign_up_to_get_started">Sign up to get started</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="welcome_back">WELCOME BACK!!</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="existing_user_sign_in">Existing user? SIGN IN</string>
+    <string name="new_user_sign_up">New user? SIGN UP</string>
+    <string name="search">search</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="type_a_message">Type a message</string>
+    <string name="send_image">Send Image</string>
+    <string name="lorem_ipsum_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+</resources>
